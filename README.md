@@ -7,7 +7,7 @@ Welcome to the Odigos Strategic Vision repo! Odigos is redefining observability 
 ## Table of Contents
 1. Introduction
 2. Structure
-3. [Vision](./vision.md)
+3. [Vision](./Vision.md)
 4. Technical Depth
 5. Initiatives
 6. Market Analysis
