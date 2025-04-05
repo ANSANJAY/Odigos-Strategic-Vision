@@ -1,7 +1,7 @@
 # **Odigos Product Roadmap**  
 
 ## **Introduction**  
-Odigos has emerged as a trailblazer in the observability space, leveraging the power of 🐝eBPF to deliver high-fidelity, low-overhead monitoring for modern cloud-native environments. As someone deeply passionate about product building and observability, I see immense potential in Odigos to become the default choice for developers and SREs looking to simplify monitoring without compromising performance.  
+Odigos has emerged as a trailblazer in the observability space, leveraging the power of eBPF  🐝  to deliver high-fidelity, low-overhead monitoring for modern cloud-native environments. As someone deeply passionate about product building and observability, I see immense potential in Odigos to become the default choice for developers and SREs looking to simplify monitoring without compromising performance.  
 
 My journey from being an eBPF engineer to a Product Manager has given me a unique perspective on how to bridge technical innovation with product strategy. Having previously worked unofficially with the Odigos team and studied the APM market for over a year, I am confident in my ability to take Odigos to the next level.  
 
