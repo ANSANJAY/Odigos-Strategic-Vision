@@ -40,7 +40,7 @@ To truly stand out in the observability space, Odigos needs to go beyond convent
 ### **4. Odigos Insights - Personalized Observability Recommendations:**  
 - **Objective:** Provide tailored guidance to optimize observability configurations.  
 - **Implementation:**  
-  - Develop an **AI-driven insights engine** that analyzes workloads and provides best practice recommendations.  
+  - Develop an **Insights engine** that analyzes workloads and provides best practice recommendations.  
   - Offer a **Health Score** to help users gauge the effectiveness of their setups.  
   - Personalize alerts and configurations based on workload patterns.  
 - **Target:** Improve setup efficiency by 25% through actionable recommendations.  
