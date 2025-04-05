@@ -1,16 +1,29 @@
 # **Odigos Strategic Vision**  
 
 ## **Introduction**  
-Odigos has emerged as a trailblazer in the observability space, leveraging the power of eBPF  🐝  to deliver high-fidelity, low-overhead monitoring for modern cloud-native environments. As someone deeply passionate about product building and observability, I see immense potential in Odigos to become the default choice for developers and SREs looking to simplify monitoring without compromising performance.  
+Odigos has emerged as a trailblazer in the observability space, leveraging the power of 🐝eBPF to deliver high-fidelity, low-overhead monitoring for modern cloud-native environments.  
 
-My journey from being an eBPF engineer to a Product Manager has given me a unique perspective on how to bridge technical innovation with product strategy. Having previously worked unofficially with the Odigos team and studied the APM market for over a year, I am confident in my ability to take Odigos to the next level.  
+As someone deeply passionate about product building and observability, I see immense potential in Odigos to become the default choice for developers and SREs looking to simplify monitoring without compromising performance.  
 
-This roadmap outlines my strategic vision for Odigos, focusing on three key pillars:  
-1. **User-Centric Development:** Ensuring that every feature and improvement directly enhances user experience and adoption.  
-2. **Technical Excellence:** Leveraging eBPF’s strengths while optimizing performance and integration with cloud-native tools.  
-3. **Community and Ecosystem Growth:** Building a thriving, engaged community around Odigos through collaboration and transparency.  
+### **Why I’m Excited About Odigos:**  
+- **Innovative Technology:** Uses 🐝eBPF to provide automatic instrumentation with minimal performance impact.  
+- **Community-Centric Approach:** As an open-source project, Odigos has built a foundation for collaborative innovation.  
+- **Scalable Observability:** Tailored for cloud-native environments, making it versatile for modern applications.  
+
+### **Why I’m the Right Fit:**  
+- **Technical Expertise:** My journey from eBPF engineer to Product Manager has equipped me with the skills to bridge technical innovation and strategic planning.  
+- **Hands-On Experience:** I have worked unofficially with the Odigos team and have practical insights into the project’s potential.  
+- **Market Understanding:** One year of studying the APM market at AmEx has given me a clear perspective on observability challenges and opportunities.  
+- **Product Passion:** Having built a product from scratch in a startup environment, I know what it takes to drive adoption and user satisfaction.  
+- **Startup Mindset:** I thrive in dynamic environments where roles are fluid, allowing me to take on responsibilities as a PM, DevRel, or Sales Rep when needed.  
+
+This roadmap outlines my strategic vision for Odigos as a Product Manager, focusing on three key pillars:  
+1. **User-Centric Development:** Enhancing user experience and adoption.  
+2. **Technical Excellence:** Optimizing performance while leveraging eBPF.  
+3. **Community and Ecosystem Growth:** Building an engaged, collaborative user base.  
 
 ---
+
 
 ## **Why This Project?**  
 Odigos’ ability to automatically instrument applications using eBPF 🐝 without requiring code changes makes it uniquely suited for modern observability challenges. However, to truly dominate the observability landscape, we must:
