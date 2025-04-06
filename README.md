@@ -17,6 +17,7 @@ As someone deeply passionate about product building and observability, I see imm
 To maintain Odigos’ leadership in the observability market, we propose the following strategic enhancements:  
 - **Advanced Profiling Capabilities:** Enabling real-time bottleneck detection and performance analysis.   
 - **Community-Driven Innovations:**  
+  - **Odigos Performance Lab:** Offer a dedicated environment for users to benchmark their applications using Odigos.   
   - **Odigos Labs Community Edition:** An experimental space for users to test new features before official releases.  
   - **Community Hackathons:** Quarterly events to drive innovative feature ideas and real-world use cases.  
   - **Odigos Mentorship Program:** Pairing experienced contributors with newcomers to foster a supportive community.  
