@@ -52,17 +52,17 @@ I am committed to leading these initiatives, driving technical excellence, and f
 - Simplifying the user experience through guided setups and intuitive interfaces.  
 - Creating targeted content that helps users get the most out of Odigos.  
 
-### **3. Data-Driven Product Management**  
+### **3. [Data-Driven Product Management](./Data-DrivenProductManagement.md)**  
 - Integrating analytics to track how users interact with Odigos features.  
 - Making data-driven decisions to continuously refine and enhance the product.  
 - Setting clear success metrics to measure product impact.  
 
-### **4. Technical Excellence**  
+### **4. [Technical Excellence](./TechnicalExcellence.md)**  
 - Leveraging eBPF to capture real-time telemetry with minimal overhead.  
 - Improving performance benchmarks to validate Odigos’ efficiency.  
 - Enhancing Kubernetes integration for seamless observability in multi-service environments.  
 
-### **5. Community Engagement**  
+### **5. [Community Engagement](./CommunityEngagement.md)**  
 - Creating a collaborative space where users actively participate in shaping the product.  
 - Organizing community events to discuss ideas and gather feedback.  
 - Building long-lasting relationships with contributors and early adopters.  
