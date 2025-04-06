@@ -42,7 +42,7 @@ I am committed to leading these initiatives, driving technical excellence, and f
 
 ## **Key Areas Covered**  
 
-### [Vision and Strategy](./Vision and Strategy.md)**  
+### **1. [Vision and Strategy](./vision.md)**
 - Setting a long-term vision for Odigos to dominate the observability space.  
 - Establishing clear short-term, medium-term, and long-term product goals.  
 - Building strategic partnerships to increase adoption and ecosystem integration.  
