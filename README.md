@@ -88,9 +88,10 @@ I am committed to leading these initiatives, driving technical excellence, and f
 
 ---
 
-## **Call to Action**  
-This roadmap is more than just a plan; it’s a commitment to building the best possible version of Odigos. I am eager to work with the team to turn this vision into reality and make Odigos the leading choice for observability in cloud-native environments.  
+## **Call to Action** 
+ 
+I believe Odigos has the potential to lead the observability space, and I’m passionate about making that vision a reality. My experience as an eBPF engineer and Product Manager equips me to drive innovation, enhance user experience, and build a strong community around Odigos.
 
-I am keen to share more ideas, gather insights from the team, and collaboratively build the future of Odigos. I look forward to discussing these ideas further and demonstrating my passion for driving Odigos’ growth.  
+I’m excited to collaborate with the team to bring these strategic ideas to life and make Odigos the go-to tool for developers and SREs. Let’s build the future of observability together!
 
 ---
