@@ -32,14 +32,6 @@ For a detailed breakdown, check out the **[Strategic Enhancements](./StrategicEn
 
 These strategic initiatives will ensure that Odigos not only meets current demands but also anticipates future challenges, reinforcing its position as the go-to observability tool for cloud-native environments.  
 
-### **Why I’m the Right Fit:**  
-- **Technical Expertise:** My journey from eBPF engineer to Product Manager has equipped me with the skills to bridge technical innovation and strategic planning.  
-- **Hands-On Experience:** I have worked unofficially with the Odigos team and have practical insights into the project’s potential.  
-- **Market Understanding:** One year of studying the APM market at AmEx has given me a clear perspective on observability challenges and opportunities.  
-- **Product Passion:** Having built a product from scratch in a startup environment, I know what it takes to drive adoption and user satisfaction.  
-- **Startup Mindset:** I thrive in dynamic environments where roles are fluid, allowing me to take on responsibilities as a PM, DevRel, or Sales Rep when needed.  
-- **Unique Proposition:** My combination of hands-on eBPF experience, product strategy insights, and startup mindset positions me uniquely to drive Odigos’ growth and innovation.  
-
 --- 
 
 ## **Why This Project?**  
@@ -47,6 +39,14 @@ Odigos’ ability to automatically instrument applications using eBPF 🐝 witho
 - **Enhance Usability:** Simplify onboarding and provide intuitive, context-driven dashboards.  
 - **Drive Adoption:** Create impactful user stories that demonstrate the value of Odigos in real-world scenarios.  
 - **Build a Collaborative Community:** Engage developers and SREs through community-driven feature requests and contributions.  
+
+### **Why I’m the Right Fit:**  
+- **Technical Expertise:** My journey from eBPF engineer to Product Manager has equipped me with the skills to bridge technical innovation and strategic planning.  
+- **Hands-On Experience:** I have worked unofficially with the Odigos team and have practical insights into the project’s potential.  
+- **Market Understanding:** One year of studying the APM market at AmEx has given me a clear perspective on observability challenges and opportunities.  
+- **Product Passion:** Having built a product from scratch in a startup environment, I know what it takes to drive adoption and user satisfaction.  
+- **Startup Mindset:** I thrive in dynamic environments where roles are fluid, allowing me to take on responsibilities as a PM, DevRel, or Sales Rep when needed.  
+- **Unique Proposition:** My combination of hands-on eBPF experience, product strategy insights, and startup mindset positions me uniquely to drive Odigos’ growth and innovation.  
 
 ### **My Approach:**  
 My approach is centered around leveraging technical insights to build user-centric features, fostering community involvement to ensure sustainable growth, and positioning Odigos as the industry leader in eBPF-based observability.  
