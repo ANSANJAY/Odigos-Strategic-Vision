@@ -47,7 +47,7 @@ I am committed to leading these initiatives, driving technical excellence, and f
 - Establishing clear short-term, medium-term, and long-term product goals.  
 - Building strategic partnerships to increase adoption and ecosystem integration.  
 
-### **2. Customer-Centric Development**  
+### **2. [Customer-Centric Development](./CustomerCentricDevelopment.md)**  
 - Prioritizing user feedback to shape product enhancements.  
 - Simplifying the user experience through guided setups and intuitive interfaces.  
 - Creating targeted content that helps users get the most out of Odigos.  
