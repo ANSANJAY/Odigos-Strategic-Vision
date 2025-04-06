@@ -1,9 +1,10 @@
-# **Odigos Strategic Vision**  
+# **🐝 Odigos Strategic Vision 🐝**  
+![Odigos Strategic Vision](./odigos_vision.png)
 
 ## **Introduction**  
 Observability has always fascinated me – the ability to gain deep insights into complex systems with minimal impact is a game changer. Odigos is leading this revolution, and I am passionate about being a part of this journey.  
 
-Odigos has emerged as a trailblazer in the observability space, leveraging the power of 🐝eBPF to deliver high-fidelity, low-overhead monitoring for modern cloud-native environments.  
+Odigos has emerged as a trailblazer in the observability space, leveraging the power of 🐝 eBPF to deliver high-fidelity, low-overhead monitoring for modern cloud-native environments.  
 
 As someone deeply passionate about product building and observability, I see immense potential in Odigos to become the default choice for developers and SREs looking to simplify monitoring without compromising performance.  
 
