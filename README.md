@@ -20,9 +20,8 @@ As someone deeply passionate about product building and observability, I see imm
 - **Startup Mindset:** I thrive in dynamic environments where roles are fluid, allowing me to take on responsibilities as a PM, DevRel, or Sales Rep when needed.  
 - **Unique Proposition:** My combination of hands-on eBPF experience, product strategy insights, and startup mindset positions me uniquely to drive Odigos’ growth and innovation.  
 
-You’re right! We discussed community-driven initiatives like **Odigos Labs**, **community hackathons**, and **mentorship programs** earlier. Including these elements in the **TL;DR** will make the introduction more impactful and aligned with the strategic vision. 
 
-### **TL;DR - Strategic Enhancements:**  
+### **TL;DR - [Strategic Enhancements](./StrategicEnhancements.md):**  
 To maintain Odigos’ leadership in the observability market, we propose the following strategic enhancements:  
 - **Advanced Profiling Capabilities:** Enabling real-time bottleneck detection and performance analysis.   
 - **Community-Driven Innovations:**  
@@ -82,7 +81,7 @@ I am committed to leading these initiatives, driving technical excellence, and f
 - Organizing community events to discuss ideas and gather feedback.  
 - Building long-lasting relationships with contributors and early adopters.  
 
-### **6. [Strategic Enhancements](./StrategicEnhancements)**  
+### **6. [Strategic Enhancements](./StrategicEnhancements.md)**  
 - Creating a collaborative space where users actively participate in shaping the product.  
 - Organizing community events to discuss ideas and gather feedback.  
 - Building long-lasting relationships with contributors and early adopters.  
