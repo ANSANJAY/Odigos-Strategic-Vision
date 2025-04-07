@@ -61,6 +61,11 @@ I am committed to leading these initiatives, driving technical excellence, and f
 - Setting a long-term vision for Odigos to dominate the observability space.  
 - Establishing clear short-term, medium-term, and long-term product goals.  
 - Building strategic partnerships to increase adoption and ecosystem integration.  
+  ## Market Positioning  
+    - To establish Odigos as the leading eBPF-based APM tool, it’s crucial to understand the current competitive landscape. The observability market is rapidly evolving, with several tools leveraging eBPF for monitoring, profiling, and tracing.  
+    - We conducted a thorough **Competitive Market Analysis** to position Odigos effectively against other prominent eBPF-based APM tools. This analysis highlights Odigos' strengths and areas of improvement compared to competitors.  
+    - You can read the complete analysis and insights [here](./Competitive_Analysis.md).  
+
 
 ### **2. [Customer-Centric Development](./CustomerCentricDevelopment.md)**  
 - Prioritizing user feedback to shape product enhancements.  
