@@ -49,9 +49,22 @@ Odigos’ ability to automatically instrument applications using eBPF 🐝 witho
 - **Unique Proposition:** My combination of hands-on eBPF experience, product strategy insights, and startup mindset positions me uniquely to drive Odigos’ growth and innovation.  
 
 ### **My Approach:**  
-My approach is centered around leveraging technical insights to build user-centric features, fostering community involvement to ensure sustainable growth, and positioning Odigos as the industry leader in eBPF-based observability.  
+- My approach is centered around leveraging technical insights to build user-centric features, fostering community involvement to ensure sustainable growth, and positioning Odigos as the industry leader in eBPF-based observability.
+- I am committed to leading these initiatives, driving technical excellence, and fostering community engagement to make Odigos an indispensable observability tool.
+- My experience with observability tools and eBPF gives me a unique perspective on how Odigos can evolve to better serve developers and enterprises.
 
-I am committed to leading these initiatives, driving technical excellence, and fostering community engagement to make Odigos an indispensable observability tool.  
+---
+
+### **Blog Series on Odigos**
+
+As part of my commitment to the growth and success of Odigos, I have prepared a comprehensive series of 15 in-depth blogs. 
+These blogs focus on
+- Odigos
+- eBPF-based observability,
+-  and practical use cases.
+
+ The series covers topics ranging from foundational concepts to advanced profiling techniques, real-world case studies, and comparisons with traditional APM tools.
+
 
 ---
 
