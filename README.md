@@ -99,7 +99,9 @@ These blogs focus on
 - Organizing community events to discuss ideas and gather feedback.  
 - Building long-lasting relationships with contributors and early adopters.  
 
-### **6. [Strategic Enhancements](./StrategicEnhancements.md)**  
+---
+
+### **[Strategic Enhancements](./StrategicEnhancements.md)**  
 - Creating a collaborative space where users actively participate in shaping the product.  
 - Organizing community events to discuss ideas and gather feedback.  
 - Building long-lasting relationships with contributors and early adopters.  
