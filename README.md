@@ -65,6 +65,25 @@ These blogs focus on
 
  The series covers topics ranging from foundational concepts to advanced profiling techniques, real-world case studies, and comparisons with traditional APM tools.
 
+| Blog Number | Title                                                                                      | Description                                                                                                           | Due Date       | Status       |
+|------------|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------|-------------|
+| 1          | Introduction to Odigos: Revolutionizing Observability with eBPF and OpenTelemetry              | Overview of Odigos, its goals, and why it’s a game-changer in observability.                                            | April 9, 2025  | Draft Ready  |
+| 2          | How Odigos Leverages eBPF for Low-Overhead Observability                                        | Deep dive into how eBPF is utilized in Odigos to collect telemetry data efficiently.                                     | April 10, 2025 | Not Started  |
+| 3          | The Role of OpenTelemetry in Odigos: Bridging the Observability Gap                            | Understanding how OpenTelemetry integrates with Odigos to provide flexible and dynamic monitoring.                      | April 11, 2025 | Not Started  |
+| 4          | The Odigos Pipeline: A High-Level Architecture Breakdown                                       | Exploring the core components of the Odigos pipeline and how they interact.                                              | April 12, 2025 | Not Started  |
+| 5          | Automatic Instrumentation in Odigos: Simplifying Tracing and Metrics Collection                 | How Odigos automates instrumentation and why it’s better than manual methods.                                            | April 13, 2025 | Not Started  |
+| 6          | Dynamic Scaling in Odigos: How the Auto Scaler Keeps Up with Application Traffic               | A look at how Odigos manages scaling automatically and efficiently.                                                     | April 14, 2025 | Not Started  |
+| 7          | End-to-End Tracing with Odigos: How It Solves the Problem of Visibility in Microservices        | Analyzing how Odigos tracks data across complex environments.                                                           | April 15, 2025 | Not Started  |
+| 8          | Odigos in Action: Real-World Use Cases and Implementation Scenarios                            | Exploring practical applications of Odigos in production environments.                                                  | April 16, 2025 | Not Started  |
+| 9          | Why Odigos Is a Game Changer for Kubernetes Observability                                       | Discussing the specific benefits of using Odigos in Kubernetes-based deployments.                                        | April 17, 2025 | Not Started  |
+| 10         | Data Processing in Odigos: The Role of Cluster Gateway and Node Collectors                     | In-depth analysis of how data is collected, processed, and exported efficiently.                                         | April 18, 2025 | Not Started  |
+| 11         | Integrating Odigos with Your Favorite Observability Backends                                    | A step-by-step guide on configuring Odigos with Grafana, Jaeger, DataDog, and more.                                       | April 19, 2025 | Not Started  |
+| 12         | Troubleshooting with Odigos: How to Diagnose and Resolve Performance Issues                     | Practical tips on leveraging Odigos for performance monitoring and debugging.                                            | April 20, 2025 | Not Started  |
+| 13         | The Role of the Odigos UI: Simplifying Configuration and Monitoring                            | Exploring how the Odigos UI makes managing observability a breeze.                                                      | April 21, 2025 | Not Started  |
+| 14         | Performance Optimization in Odigos: Balancing Data Collection with System Load                 | Techniques and best practices for maintaining performance while using Odigos.                                            | April 22, 2025 | Not Started  |
+| 15         | The Future of Observability with Odigos: Trends and Innovations to Watch                       | Speculating on the future trajectory of Odigos and how it will shape observability.                                       | April 23, 2025 | Not Started  |
+
+Let me know if you would like any changes or additional details!
 
 ---
 
