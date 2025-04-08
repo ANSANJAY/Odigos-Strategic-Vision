@@ -55,7 +55,7 @@ Odigos’ ability to automatically instrument applications using eBPF 🐝 witho
 
 ---
 
-### **Blog Series on Odigos**
+### **[Blog Series on Odigos](./Blogs)**
 
 As part of my commitment to the growth and success of Odigos, I have prepared a comprehensive series of 15 in-depth blogs. 
 These blogs focus on
