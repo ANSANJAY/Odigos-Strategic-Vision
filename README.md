@@ -84,7 +84,7 @@ These blogs focus on
 - Simplifying the user experience through guided setups and intuitive interfaces.  
 - Creating targeted content that helps users get the most out of Odigos.  
 
-### **3. [Data-Driven Product Management](./Data-DrivenProductManagement.md)**  
+### **3. [Data-Driven Product Development](./Data-DrivenProductManagement.md)**  
 - Integrating analytics to track how users interact with Odigos features.  
 - Making data-driven decisions to continuously refine and enhance the product.  
 - Setting clear success metrics to measure product impact.  
